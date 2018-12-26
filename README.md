@@ -1,4 +1,4 @@
 # INETS
-INETS algorithm for disease gene prediction
+INETS is prediction algorithm for disease genes
 
-The Python implementation of INETS
+The Python implementation and datasets of INETS
